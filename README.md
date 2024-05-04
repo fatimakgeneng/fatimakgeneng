@@ -20,6 +20,10 @@ I'm excited to explore new opportunities, leverage my skills and experiences to 
 
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![IELTS Speaking Part 2: The Cue Card - with an example (Continued)](https://ytcards.demolab.com/?id=XDb265WEoBs&title=IELTS+Speaking+Part+2%3A+The+Cue+Card+-+with+an+example+%28Continued%29&lang=en&timestamp=1675503397&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "IELTS Speaking Part 2: The Cue Card - with an example (Continued)")](https://www.youtube.com/watch?v=XDb265WEoBs)
+[![IELTS Speaking Part 2: The Cue Card - with an example](https://ytcards.demolab.com/?id=mT2WjIqSH5s&title=IELTS+Speaking+Part+2%3A+The+Cue+Card+-+with+an+example&lang=en&timestamp=1674653724&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "IELTS Speaking Part 2: The Cue Card - with an example")](https://www.youtube.com/watch?v=mT2WjIqSH5s)
+[![Sin-Cos-Tan | Easy Trigonometry tricks | Easy way to learn Trigonometry Formulas-Class 10 | Class 11](https://ytcards.demolab.com/?id=w4INrUji6Lg&title=Sin-Cos-Tan+%7C+Easy+Trigonometry+tricks+%7C+Easy+way+to+learn+Trigonometry+Formulas-Class+10+%7C+Class+11&lang=en&timestamp=1655977339&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Sin-Cos-Tan | Easy Trigonometry tricks | Easy way to learn Trigonometry Formulas-Class 10 | Class 11")](https://www.youtube.com/watch?v=w4INrUji6Lg)
+[![Are you looking for interesting, factual and knowledgeable information?](https://ytcards.demolab.com/?id=7chi9bcqBw4&title=Are+you+looking+for+interesting%2C+factual+and+knowledgeable+information%3F&lang=en&timestamp=1655474425&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Are you looking for interesting, factual and knowledgeable information?")](https://www.youtube.com/watch?v=7chi9bcqBw4)
 <!-- END YOUTUBE-CARDS -->
 
 
