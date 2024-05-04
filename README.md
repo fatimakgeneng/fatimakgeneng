@@ -18,6 +18,11 @@ Having finished my O level and A level with a penchant for Genetics. I intend to
 Beyond this in 2019, I achieved a significant milestone by winning a Discrimination Case at SEND Tribunal Darlington, UK - A testament to my determination and advocacy for fairness and equality achieved at the tender age of 15!
 I'm excited to explore new opportunities, leverage my skills and experiences to make a meaningful impact. Let's connect and collaborate to inspire a positive change and innovation!
 
+
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
+
+
 -  Working on Node Projects 
 -  Learning Generative AI Engineering (GenEng) 
 -  Ask me about AI, freelancing, content writing/creation, genetic engineering and specialists' exams,  
