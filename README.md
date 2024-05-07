@@ -52,6 +52,4 @@ I'm excited to explore new opportunities, leverage my skills and experiences to 
 
 <br>
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=fatimakgeneng)  
-
-
+![GitHub streak stats](https://streak-stats.demolab.com/?user=fatimakgeneng)
