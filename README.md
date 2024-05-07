@@ -44,7 +44,7 @@ I'm excited to explore new opportunities, leverage my skills and experiences to 
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fatimakgeneng)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fatimakgeneng)](https://github.com/fatimakgeneng/github-readme-stats)
 
 <br>
 
