@@ -46,10 +46,6 @@ I'm excited to explore new opportunities, leverage my skills and experiences to 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fatimakgeneng)](https://github.com/fatimakgeneng/github-readme-stats)
 
-<br>
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fatimakgeneng&show_icons=true)
-
-<br>
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=fatimakgeneng)
