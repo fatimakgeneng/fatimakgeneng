@@ -19,7 +19,7 @@ Beyond this in 2019, I achieved a significant milestone by winning a Discriminat
 I'm excited to explore new opportunities, leverage my skills and experiences to make a meaningful impact. Let's connect and collaborate to inspire a positive change and innovation!
 
 -  Working on Node Projects 
--  Learning Generative AI Engineering (GenEng) 
+-  Mastering Generative AI Engineering (GenEng) 
 -  Ask me about AI, freelancing, content writing/creation, genetic engineering and specialists' exams,  
 -  Reach me at pinkoosagi@gmail.com 
 -  she/her 
