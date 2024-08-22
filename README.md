@@ -1,4 +1,4 @@
-![I am a Contributing Writer/Author at CodeX and Towards Dev](https://media.licdn.com/dms/image/D4D16AQGB7Aon4j2TtQ/profile-displaybackgroundimage-shrink_350_1400/0/1717785681523?e=1723680000&v=beta&t=i8D3vHoD4WqQJoYWA7Gzh2fxVAUDtv6_uA-hm4_Bvew)
+![I am a Contributing Writer/Author at CodeX and Towards Dev](https://media.licdn.com/dms/image/v2/D4D16AQGB7Aon4j2TtQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719351356280?e=1729728000&v=beta&t=y9migR7zC2Qc94yPKfP1KZ-MxDsMVxwFM-yEo2g-Hso)
 
 
 # Fatima Khan
